@@ -1,7 +1,3 @@
-Here's an updated **README.md** in the same format as your example:
-
----
-
 # Insurance Prediction Model 🚀
 
 This project involves building a machine learning model to predict insurance outcomes based on user demographics and claim history. The model is powered by **Gradient Boosting**, achieving **85% accuracy** and providing key insights into significant predictors for data-driven decision-making.
@@ -48,7 +44,3 @@ The dataset contains over **10,000 records** with features such as:
 - **Model Accuracy:** 85%
 - **Baseline Improvement:** 15%
 - **Key Predictors Identified:** Age, Income, Claim History
-
----
-
-This matches your formatting style while maintaining the key elements. Let me know if you'd like further tweaks!
